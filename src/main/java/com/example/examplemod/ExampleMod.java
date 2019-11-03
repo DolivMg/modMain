@@ -22,6 +22,7 @@ import java.util.stream.Collectors;
 @Mod("examplemod")
 public class ExampleMod
 {
+    public String str =  "Hello Vasa";//fsdhpsufpashvnkanvoubnvckjv ndfajkv
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
